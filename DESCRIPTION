@@ -1,0 +1,10 @@
+Package: testerPPF
+Type: Package
+Title: Test New R Packages
+Version: 0.1.0
+Author: Pamela Ponce
+Maintainer: Pamela Ponce <yourself@somewhere.net>
+Description: Provides functionality for my functions.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true

@@ -8,3 +8,5 @@ Description: Provides functionality for my functions.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/pamelaponcef/testerPPF
+BugReports: https://github.com/pamelaponcef/testerPPF/issues
